@@ -1,0 +1,19 @@
+{
+  "name": "TechAndHenhuo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:istommao/TechAndHenhuo.git",
+  "author": "codingcat <istommao@gmail.com>",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs",
+    "dev": "vitepress dev docs",
+    "start": "vitepress dev docs"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^1.0.0-alpha.19",
+    "vue": "^3.2.40"
+  }
+}

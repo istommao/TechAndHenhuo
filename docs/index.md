@@ -1,5 +1,4 @@
-# TechAndHenhuo
-Tech and Henhuo 科技与狠活
+# 科技与狠活
 
 
 ## 什么是食品添加剂
